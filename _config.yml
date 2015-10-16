@@ -36,6 +36,11 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
 
+duoshuo:
+  name: darkicerain
+  key: a29e1f47b7133780b9b9358cc6de7bd2
+  domain: darkicerain.duoshuo.com
+
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
