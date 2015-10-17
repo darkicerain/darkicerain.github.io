@@ -12,7 +12,7 @@
     <div class="content">
         <section class='post'>
             <h1 class="upcase">
-                <div class='date'>{{ page.date | date_to_string }}</div>
+                <div class='date' data-time="{{page.date}}" data-format="true">{{ page.date | date_to_string }}</div>
                 {{ page.title }}
             </h1>
             {{ content }}
