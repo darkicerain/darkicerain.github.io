@@ -10,7 +10,7 @@ redcarpet:
     - smart
 # Use the following plug-ins
 timezone: Asia/Shanghai
-
+safe: false
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
