@@ -2,9 +2,6 @@ title:            我真的是哔了狗
 description:      我真的是哔了狗的博客，有什么好看的
 url:              # Site url.
 
-
-links:
-  -
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
@@ -12,6 +9,8 @@ redcarpet:
   extensions:
     - smart
 # Use the following plug-ins
+timezone: Asia/Shanghai
+
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 

@@ -1,5 +1,14 @@
 - name:         首页
   url:          /
+- name:         生活
+  url:          /life
+  external:     true
+- name:         爱好
+  url:          /likes
+  external:     true
+- name:         编程
+  url:          /program
+  external:     true
 - name:         关于
   url:          /about
   external:     true

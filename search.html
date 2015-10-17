@@ -4,7 +4,8 @@ layout: none
 [{% for post in site.posts %}
 {
     "title":"{{post.title}}",
-    "content":"{{post.content}}",
+    "content":"{{post.content|strip_html }}",
+    "excerpt":"{{ post.excerpt | strip_html }}",
     "url":"{{post.url}}",
     "category":"{{post.categories|array_to_sentence_string}}"
 },
