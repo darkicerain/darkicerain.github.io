@@ -1,0 +1,11 @@
+- name:         首页
+  url:          /
+- name:         关于
+  url:          /about
+  external:     true
+- name:         邮件
+  url:          mailto:dark.ice.rain.cream@gmail.com
+  external:     true
+- name:         GitHub
+  url:          http://github.com/darkicerain
+  external:     true

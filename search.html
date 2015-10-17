@@ -1,0 +1,11 @@
+---
+layout: none
+---
+[{% for post in site.posts %}
+{
+    "title":"{{post.title}}",
+    "content":"{{post.content}}",
+    "url":"{{post.url}}",
+    "category":"{{post.categories|array_to_sentence_string}}"
+},
+{% endfor %}]
