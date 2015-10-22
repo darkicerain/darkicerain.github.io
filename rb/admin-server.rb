@@ -11,8 +11,7 @@ def os_family
   end
 end
 
-server = WEBrick::HTTPServer.new(:Port => 1234)
-server.mount"/", AdminServlet
+
 
 sys=os_family()
 if sys=="windows" then
@@ -28,6 +27,8 @@ if sys=="windows" then
   puts "Server detached with pid '#{pid}'.", "Run `kill -f #{pid}' to stop the server."
 
 else if sys =="unix"
+       $cgi_dir= File.dirname(__FILE__)+'/cgi/'
+       require_relative 'admin-new'
        pid = Process.fork { server.start }
        Process.detach(pid)
        puts "Server detached with pid '#{pid}'.", "Run `kill -9 #{pid}' to stop the server."
