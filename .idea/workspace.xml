@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd8ec700-2d20-4a3a-a9f2-bc2774914aa4" name="Default" comment="Merge remote-tracking branch 'remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/encodings.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;_plugins/admin.rb&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editor-md" />
+    <list default="true" id="cd8ec700-2d20-4a3a-a9f2-bc2774914aa4" name="Default" comment="Merge remote-tracking branch 'remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/encodings.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;_plugins/admin.rb&#10;" />
+    <list id="219074bb-bc7b-41e9-91b6-50399df15498" name="New changelist" comment=" 图片">
       <change type="DELETED" beforePath="$PROJECT_DIR$/editor.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/editor-md" afterPath="$PROJECT_DIR$/editor-md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_plugins/admin.rb" afterPath="$PROJECT_DIR$/_plugins/admin.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/life/_posts/2015-10-16-what-the-you-are.md" afterPath="$PROJECT_DIR$/categories/life/_posts/2015-10-16-what-the-you-are.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rb/cgi/test.cgi" afterPath="$PROJECT_DIR$/rb/cgi/test.cgi" />
     </list>
-    <list id="219074bb-bc7b-41e9-91b6-50399df15498" name="New changelist" comment=" 图片" />
     <list id="f0f69a23-8f93-41f0-a5f4-ca0012f28f02" name="Failed commit: Default" comment="Merge remote-tracking branch 'remotes/origin/master'&#10;&#10;&#10;" />
     <ignored path="darkicerain.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -774,7 +771,7 @@
       <workItem from="1445308081121" duration="3893000" />
       <workItem from="1445389459314" duration="1938000" />
       <workItem from="1445482417194" duration="13171000" />
-      <workItem from="1445565199280" duration="1308000" />
+      <workItem from="1445565199280" duration="1351000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1445001814258</created>
@@ -866,11 +863,17 @@
       <option name="project" value="LOCAL" />
       <updated>1445506758541</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/encodings.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;_plugins/admin.rb&#10;">
+      <created>1445569145831</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1445569145831</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27088000" />
+    <option name="totallyTimeSpent" value="27131000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -898,6 +901,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25068492" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.50239235" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -917,7 +921,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32887402" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25068492" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1255,6 +1258,7 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="MultiMarkdownFxHtmlEditor">
