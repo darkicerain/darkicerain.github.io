@@ -1,5 +1,11 @@
 #!/usr/bin/ruby
 require 'cgi'
+require 'json'
+
+require_relative '../manage/article'
 cgi = CGI.new
+test={"a"=>"1","b"=>"2"}
+
 puts cgi.header
-puts "<html><body>Hello Webrick</body></html>"
+
+puts Article::search("aw")
