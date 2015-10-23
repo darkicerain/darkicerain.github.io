@@ -10,8 +10,7 @@
         //var data=eval('('+data+')');
         //console.log(data);
         if(data.countryCode=='CN'||data.country=='China'){
-            var shortname = "{{ site.darkicerain }}";
-            var shortname = {short_name:"{{ site.data.duoshuo.name }}"};
+            var duoshuoQuery = {short_name:"{{ site.data.duoshuo.name }}"};
             (function() {
                 var ds = document.createElement('script');
                 ds.type = 'text/javascript';ds.async = true;
