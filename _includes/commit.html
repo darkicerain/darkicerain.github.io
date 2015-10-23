@@ -7,8 +7,8 @@
     var get_ip="http://ip-api.com/json";
     $.ajax({url:get_ip,success:function(data){
         console.log(data);
-        var data=eval('('+data+')');
-        console.log(data);
+        //var data=eval('('+data+')');
+        //console.log(data);
         if(data.countryCode=='CN'||data.country=='China'){
             var shortname = "{{ site.darkicerain }}";
             var shortname = {short_name:"{{ site.data.duoshuo.name }}"};

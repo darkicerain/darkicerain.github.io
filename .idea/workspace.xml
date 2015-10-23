@@ -45,8 +45,8 @@
       <file leaf-file-name="commit.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/commit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25404158">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.34180138">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -829,7 +829,7 @@
       <workItem from="1445308081121" duration="3893000" />
       <workItem from="1445389459314" duration="1938000" />
       <workItem from="1445482417194" duration="13171000" />
-      <workItem from="1445565199280" duration="10805000" />
+      <workItem from="1445565199280" duration="10876000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1445001814258</created>
@@ -981,11 +981,17 @@
       <option name="project" value="LOCAL" />
       <updated>1445579920568</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/encodings.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;_plugins/admin.rb&#10;">
+      <created>1445580227367</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1445580227367</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36585000" />
+    <option name="totallyTimeSpent" value="36656000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1441,8 +1447,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/commit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25404158">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.34180138">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           <folding />
         </state>
       </provider>
