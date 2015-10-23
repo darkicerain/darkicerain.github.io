@@ -4,15 +4,32 @@
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 
 <script type="text/javascript">
-    var shortname = "{{ site.darkicerain }}";
-    var shortname = {short_name:"{{ site.data.duoshuo.name }}"};
-    (function() {
-        var ds = document.createElement('script');
-        ds.type = 'text/javascript';ds.async = true;
-        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-        ds.charset = 'UTF-8';
-        (document.getElementsByTagName('head')[0]
-        || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
+    var get_ip="http://ip-api.com/json";
+    $.ajax({url:get_ip,success:function(data){
+        var data=eval('('+data+')');
+        console.log(data);
+        if(data.countryCode=='CN'||data.country=='China'){
+            var shortname = "{{ site.darkicerain }}";
+            var shortname = {short_name:"{{ site.data.duoshuo.name }}"};
+            (function() {
+                var ds = document.createElement('script');
+                ds.type = 'text/javascript';ds.async = true;
+                ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+                ds.charset = 'UTF-8';
+                (document.getElementsByTagName('head')[0]
+                || document.getElementsByTagName('body')[0]).appendChild(ds);
+            })();
+        }else{
+            var disqus_shortname = "{{ site.data.disqus.name }}";
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                dsq.setAttribute('data-timestamp', +new Date());
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        }
+    }});
+
+
 </script>
 <!-- 多说公共JS代码 end -->
