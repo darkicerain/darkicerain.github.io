@@ -26,7 +26,7 @@ Look, a list!
 
 And here's some code! :+1:
 
-```javascript
+```c
 $(function(){
   $('div').html('I am a div.');
 });
