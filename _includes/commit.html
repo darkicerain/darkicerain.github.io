@@ -20,7 +20,7 @@
                 || document.getElementsByTagName('body')[0]).appendChild(ds);
             })();
         }else{
-            windw.disqus_shortname = "{{ site.data.disqus.name }}";
+            window.disqus_shortname = "{{ site.data.disqus.name }}";
             (function() {
                 var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
                 dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
