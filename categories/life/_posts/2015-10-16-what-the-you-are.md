@@ -1,6 +1,7 @@
 ---
 layout: post
 title: tesst1
+permalink: 
 ---
 
 ###testaaa
@@ -26,11 +27,7 @@ Look, a list!
 
 And here's some code! :+1:
 
-```c
-$(function(){
-  $('div').html('I am a div.');
-});
-```
+
 
 This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
 
