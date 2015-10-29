@@ -6,7 +6,7 @@ require 'yaml'
 
 require_relative '../manage/article'
 cgi = CGI.new
-test={"a"=>"1","b"=>"2"}
+
 
 puts cgi.header
 #测试代码
@@ -20,4 +20,6 @@ puts cgi.header
 #File.open("/www/darkicerain.github.io/_data/links.yml", "wb") {|f| YAML.dump(data, f) }
 #Category::add("post","推送",false)
 #Category::delete("post")
-p Article::search("b")
+
+arc = Article::search("b")
+p Article::get_arc_info(arc[0]["path"])
