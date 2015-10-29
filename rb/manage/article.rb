@@ -35,15 +35,20 @@ class Article
       #match=value.match("^(.*-)([a-zA-Z-]*"+str+".*)$")
 
       if(match)
-        puts match
-        puts $1+"||"+$2+"||"+$3
-        @@article.push(value)
+        arc={}
+        arc["cate"]=$1
+        arc["path"]=value
+        arc["date"]=$2
+        title=$3.to_s()
+        arc["title"]=$3.to_s().gsub("-"," ")
+        #puts $1+"||"+$2+"||"+$3
+        @@article.push(arc)
       end
     }
     return @@article
   end
 
-  def self.arc_head(title=nil,description=nil,tags=nil,published=nil,permalink=nil,layout=nil)
+  def self.arc_head(title=nil,tags=nil,published=nil,permalink=nil,layout=nil)
     head_tpl="---
 layout: {layout}
 title: {title}
@@ -80,12 +85,6 @@ date: {date}
       head_tpl.gsub!(/\{tags\}/,tags)
     else
       head_tpl.gsub!(/\{tags\}/,"")
-    end
-
-    if description
-      head_tpl.gsub!(/\{description\}/,description)
-    else
-      head_tpl.gsub!(/\{description\}/,"")
     end
 
     head_tpl.gsub!(/\{date\}/,Time.new.inspect)

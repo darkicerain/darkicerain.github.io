@@ -20,4 +20,4 @@ puts cgi.header
 #File.open("/www/darkicerain.github.io/_data/links.yml", "wb") {|f| YAML.dump(data, f) }
 #Category::add("post","推送",false)
 #Category::delete("post")
-Article::search("b")
+p Article::search("b")
