@@ -35,6 +35,7 @@ class Article
     end
 
     if (@content&&@content!="")
+      #puts @content
       arr=@content.split("---")
       @content={}
       @content["inner"]=arr[2]

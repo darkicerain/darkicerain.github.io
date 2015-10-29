@@ -21,5 +21,5 @@ puts cgi.header
 #Category::add("post","推送",false)
 #Category::delete("post")
 
-arc = Article::search("b")
+arc = Article::search("a")
 p Article::get_arc_info(arc[0]["path"])
