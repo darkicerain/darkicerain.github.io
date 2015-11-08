@@ -1,7 +1,7 @@
 <html>
   <head>
-    <meta content='{{ site.title }}' property='og:title' />
-    <title>{{ site.title }}</title>
+    <meta content='{{ site.data.info.title }}' property='og:title' />
+    <title>{{ site.data.info.title }}</title>
     {% include head.html %}
   </head>
   <body>
@@ -13,8 +13,6 @@
       </div>
     </div>
     {% include footer.html %}
-
-
   </body>
 
 <script>

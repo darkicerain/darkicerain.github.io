@@ -1,11 +1,11 @@
 require 'rubygems'
 require 'webrick'
 
-require_relative 'admin-servlet'
+#require_relative 'admin-servlet'
+$cgi_dir= File.dirname(__FILE__)+'/cgi/'
+#puts $cgi_dir
+require_relative 'admin-new'
 
-server = WEBrick::HTTPServer.new(:Port => 1234)
-server.mount"/", AdminServlet
 
-server.start
 
 
