@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="time.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>这是一个测试作品</h1>
+<article>
+    使用jquery和css3实现，用的css中的2d转换。2015-11-08 17:23。
+</article>
+    <div class="time-bg content">
+        <div class="minute-hand minute-pos"></div>
+        <div class="second-hand second-pos"></div>
+        <div class="hour-hand hour-pos"></div>
+        <div class="time-top top-pos"></div>
+    </div>
+
+
+
+    <a href="images/clock.psd"> 当前demo所使用的psd下载。</a>
+</body>
+
+<script src="http://apps.bdimg.com/libs/jquery/1.9.0/jquery.min.js"></script>
+
+<script type="text/javascript">
+    $(function(){
+
+        var get_now=function(){
+            var now = new Date();
+            now.hour=now.getHours();
+            now.minute=now.getMinutes();
+            now.second=now.getSeconds();
+            return now;
+        }
+
+        var get_translate=function(height,rotate){
+            return {x:height/2*Math.sin(rotate*Math.PI/180),y:-(height/2-height/2*Math.cos(rotate*Math.PI/180))}
+        }
+
+        var set_second=function(s){
+            var height=$(".second-hand").height()-210;
+            var rotate=s/60*360;
+            var translate=get_translate(height,rotate);
+            $(".second-hand").css({"transform":"rotate("+rotate+"deg) translate("+translate.x+"px,"+translate.y+"px)"});
+            //console.log("秒："+s+"高度："+height+"角度："+rotate+"  x平移："+translate_x+"  y平移："+translate_y);
+        }
+
+        var set_minute=function(m,s){
+            var height=$(".minute-hand").height()-180;
+            var rotate=m/60*360;
+            var translate=get_translate(height,rotate);
+            $(".minute-hand").css({"transform":"rotate("+rotate+"deg) translate("+translate.x+"px,"+translate.y+"px)"});
+        }
+
+        var set_hour=function(h,m){
+            h=h>12?h-12:h;
+            var height=$(".hour-hand").height()-145;
+            var rotate=h/12*360+30*m/60;
+            var translate=get_translate(height,rotate);
+            $(".hour-hand").css({"transform":"rotate("+rotate+"deg) translate("+translate.x+"px,"+translate.y+"px)"});
+        }
+
+        var last=get_now();
+        set_hour(last.hour,last.minute);
+        set_minute(last.minute)
+        set_second(last.second)
+
+        var t=setInterval(function(){
+            var now=get_now();
+            if(now.second!=last.second){
+                set_second(now.second);
+                //console.log(now.second);
+            }
+            if(now.minute!=last.minute){
+                set_minute(now.minute);
+                set_hour(now.hour,now.minute);
+                //console.log(now.minute);
+            }
+            if(now.hour!=last.hour){
+                set_hour(now.hour,now.minute);
+                //console.log(now.hour);
+            }
+            last=now;
+        },1000);
+
+    });
+</script>
+</html>

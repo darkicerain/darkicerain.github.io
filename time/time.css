@@ -1,0 +1,64 @@
+@charset "utf-8";
+body{background:#999;text-align: center;}
+
+.content{
+    margin: 0 auto;
+
+}
+.time-bg{
+    background:url("images/psd7786.png");
+    height: 1024px;
+    width: 1280px;
+    position: relative;
+}
+.minute-hand{
+    background: url("images/others.png") no-repeat -28px -56px;
+    height: 384px;
+    width: 12px;
+}
+.second-hand{
+    background: url("images/others.png") no-repeat -1px -56px;
+    height: 390px;
+    width: 12px;
+}
+.hour-hand{
+    background: url("images/others.png") no-repeat 0px -447px;
+    height: 280px;
+    width: 22px;
+}
+.time-top{
+    background: url("images/others.png") no-repeat 0px 0px;
+    height: 44px;
+    width: 44px;
+}
+
+
+.minute-pos{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -15px;
+    margin-top: -280px;
+
+}
+.second-pos{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -13px;
+    margin-top: -265px;
+}
+.hour-pos{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -18px;
+    margin-top: -190px;
+}
+.top-pos{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -29px;
+    margin-top: -7px;
+}

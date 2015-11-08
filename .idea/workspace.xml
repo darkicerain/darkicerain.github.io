@@ -2,524 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd8ec700-2d20-4a3a-a9f2-bc2774914aa4" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\BUGS.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\CHANGE.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\Gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\css\editormd.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\css\editormd.logo.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\css\editormd.logo.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\css\editormd.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\css\editormd.preview.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\css\editormd.preview.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\editormd.js.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Bold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Bold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-BoldItalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-BoldItalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-BoldItalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Italic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Italic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Italic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Light-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Light-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Light-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-LightItalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-LightItalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-LightItalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Regular-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Regular-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\fonts\OpenSans-Regular-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\scripts\linenumber.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\scripts\prettify\Apache-License-2.0.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\scripts\prettify\lang-css.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\scripts\prettify\prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\styles\jsdoc-default.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\styles\prettify-jsdoc.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\docs\styles\prettify-tomorrow.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\editormd.amd.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\editormd.amd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\editormd.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\editormd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\@links.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\auto-height.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\change-mode.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\code-fold.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\custom-keyboard-shortcuts.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\custom-toolbar.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\define-plugin.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\delay-renderer-preview.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\dynamic-create-editormd.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\emoji.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\extends.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\external-use.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\flowchart.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\form-get-value.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\full.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\goto-line.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\html-preview-markdown-to-html-custom-toc-container.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\html-preview-markdown-to-html.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\html-tags-decode.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\image-cross-domain-upload.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\image-upload.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\images\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\images\7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\images\8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\images\editormd-screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\js\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\js\require.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\js\sea.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\js\seajs-main.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\js\zepto.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\katex.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\manually-load-modules.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\multi-editormd.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\multi-languages.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\on-off.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\onchange.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\onfullscreen.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\onload.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\onpreviewing-onpreviewed.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\onresize.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\onscroll-onpreviewscroll.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\onwatch-onunwatch.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\page-break.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\php\cross-domain-upload.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\php\editormd.uploader.class.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\php\post.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\php\upload.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\php\upload_callback.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\readonly.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\resettings.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\search-replace.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\sequence-diagram.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\set-get-replace-selection.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\simple.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\sync-scrolling.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\task-lists.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\test.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\themes.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\toc.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\toolbar-auto-fixed.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\use-requirejs.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\use-seajs.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\examples\use-zepto.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\fonts\FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\fonts\editormd-logo.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\fonts\editormd-logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\fonts\editormd-logo.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\fonts\editormd-logo.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\fonts\fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\fonts\fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\fonts\fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\fonts\fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\fonts\fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\loading@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\loading@3x.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-favicon-16x16.ico" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-favicon-24x24.ico" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-favicon-32x32.ico" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-favicon-48x48.ico" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-favicon-64x64.ico" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-114x114.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-120x120.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-144x144.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-180x180.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-240x240.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-24x24.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-320x320.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-57x57.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-64x64.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\editormd-logo-96x96.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\images\logos\vi.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\languages\en.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\languages\zh-tw.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\AUTHORS" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\comment\comment.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\comment\continuecomment.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\dialog\dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\dialog\dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\display\fullscreen.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\display\fullscreen.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\display\panel.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\display\placeholder.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\display\rulers.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\edit\closebrackets.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\edit\closetag.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\edit\continuelist.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\edit\matchbrackets.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\edit\matchtags.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\edit\trailingspace.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\fold\brace-fold.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\fold\comment-fold.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\fold\foldcode.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\fold\foldgutter.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\fold\foldgutter.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\fold\indent-fold.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\fold\markdown-fold.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\fold\xml-fold.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\hint\anyword-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\hint\css-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\hint\html-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\hint\javascript-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\hint\show-hint.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\hint\show-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\hint\sql-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\hint\xml-hint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\lint\coffeescript-lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\lint\css-lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\lint\javascript-lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\lint\json-lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\lint\lint.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\lint\lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\lint\yaml-lint.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\merge\merge.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\merge\merge.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\mode\loadmode.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\mode\multiplex.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\mode\multiplex_test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\mode\overlay.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\mode\simple.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\runmode\colorize.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\runmode\runmode-standalone.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\runmode\runmode.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\runmode\runmode.node.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\scroll\annotatescrollbar.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\scroll\scrollpastend.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\scroll\simplescrollbars.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\scroll\simplescrollbars.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\search\match-highlighter.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\search\matchesonscrollbar.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\search\matchesonscrollbar.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\search\search.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\search\searchcursor.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\selection\active-line.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\selection\mark-selection.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\selection\selection-pointer.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\tern\tern.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\tern\tern.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\tern\worker.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addon\wrap\hardwrap.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\addons.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\codemirror.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\codemirror.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\lib\codemirror.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\lib\codemirror.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\apl\apl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\apl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\asterisk\asterisk.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\asterisk\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\clike\clike.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\clike\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\clike\scala.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\clojure\clojure.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\clojure\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\cobol\cobol.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\cobol\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\coffeescript\coffeescript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\coffeescript\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\commonlisp\commonlisp.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\commonlisp\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\css\css.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\css\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\css\less.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\css\less_test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\css\scss.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\css\scss_test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\css\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\cypher\cypher.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\cypher\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\d\d.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\d\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\dart\dart.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\dart\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\diff\diff.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\diff\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\django\django.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\django\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\dockerfile\dockerfile.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\dockerfile\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\dtd\dtd.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\dtd\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\dylan\dylan.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\dylan\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\ebnf\ebnf.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\ebnf\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\ecl\ecl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\ecl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\eiffel\eiffel.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\eiffel\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\erlang\erlang.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\erlang\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\forth\forth.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\forth\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\fortran\fortran.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\fortran\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\gas\gas.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\gas\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\gfm\gfm.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\gfm\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\gfm\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\gherkin\gherkin.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\gherkin\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\go\go.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\go\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\groovy\groovy.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\groovy\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\haml\haml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\haml\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\haml\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\haskell\haskell.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\haskell\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\haxe\haxe.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\haxe\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\htmlembedded\htmlembedded.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\htmlembedded\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\htmlmixed\htmlmixed.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\htmlmixed\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\http\http.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\http\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\idl\idl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\idl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\jade\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\jade\jade.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\javascript\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\javascript\javascript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\javascript\json-ld.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\javascript\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\javascript\typescript.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\jinja2\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\jinja2\jinja2.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\julia\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\julia\julia.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\kotlin\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\kotlin\kotlin.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\livescript\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\livescript\livescript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\lua\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\lua\lua.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\markdown\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\markdown\markdown.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\markdown\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\meta.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\mirc\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\mirc\mirc.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\mllike\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\mllike\mllike.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\modelica\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\modelica\modelica.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\nginx\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\nginx\nginx.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\ntriples\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\ntriples\ntriples.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\octave\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\octave\octave.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\pascal\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\pascal\pascal.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\pegjs\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\pegjs\pegjs.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\perl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\perl\perl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\php\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\php\php.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\php\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\pig\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\pig\pig.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\properties\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\properties\properties.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\puppet\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\puppet\puppet.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\python\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\python\python.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\q\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\q\q.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\r\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\r\r.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\rpm\changes\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\rpm\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\rpm\rpm.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\rst\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\rst\rst.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\ruby\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\ruby\ruby.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\ruby\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\rust\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\rust\rust.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\sass\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\sass\sass.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\scheme\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\scheme\scheme.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\shell\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\shell\shell.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\shell\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\sieve\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\sieve\sieve.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\slim\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\slim\slim.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\slim\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\smalltalk\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\smalltalk\smalltalk.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\smarty\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\smarty\smarty.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\smartymixed\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\smartymixed\smartymixed.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\solr\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\solr\solr.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\soy\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\soy\soy.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\sparql\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\sparql\sparql.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\spreadsheet\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\spreadsheet\spreadsheet.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\sql\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\sql\sql.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\stex\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\stex\stex.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\stex\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\stylus\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\stylus\stylus.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\tcl\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\tcl\tcl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\textile\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\textile\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\textile\textile.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\tiddlywiki\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\tiddlywiki\tiddlywiki.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\tiddlywiki\tiddlywiki.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\tiki\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\tiki\tiki.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\tiki\tiki.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\toml\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\toml\toml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\tornado\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\tornado\tornado.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\turtle\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\turtle\turtle.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\vb\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\vb\vb.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\vbscript\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\vbscript\vbscript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\velocity\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\velocity\velocity.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\verilog\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\verilog\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\verilog\verilog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\xml\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\xml\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\xml\xml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\xquery\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\xquery\test.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\xquery\xquery.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\yaml\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\yaml\yaml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\z80\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\mode\z80\z80.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\modes.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\3024-day.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\3024-night.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\ambiance-mobile.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\ambiance.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\base16-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\base16-light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\blackboard.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\cobalt.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\colorforth.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\eclipse.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\elegant.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\erlang-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\lesser-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\mbo.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\mdn-like.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\midnight.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\monokai.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\neat.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\neo.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\night.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\paraiso-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\paraiso-light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\pastel-on-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\rubyblue.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\solarized.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\the-matrix.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\tomorrow-night-bright.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\tomorrow-night-eighties.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\twilight.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\vibrant-ink.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\xq-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\xq-light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\codemirror\theme\zenburn.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\flowchart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\jquery.flowchart.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\marked.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\prettify.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\raphael.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\sequence-diagram.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\lib\underscore.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\code-block-dialog\code-block-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\emoji-dialog\emoji-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\emoji-dialog\emoji.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\goto-line-dialog\goto-line-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\help-dialog\help-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\help-dialog\help.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\html-entities-dialog\html-entities-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\html-entities-dialog\html-entities.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\image-dialog\image-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\link-dialog\link-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\plugin-template.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\preformatted-text-dialog\preformatted-text-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\reference-link-dialog\reference-link-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\table-dialog\table-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\plugins\test-plugin\test-plugin.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.codemirror.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.dialog.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.form.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.logo.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.menu.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.preview.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.preview.themes.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.tab.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\editormd.themes.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\github-markdown.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\lib\prefixes.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\lib\variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\scss\prettify.scss" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\src\editormd.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\bootstrap-test.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\codemirror-searchbox-test.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\codemirror-test.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\js\searchbox.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\katex-tests.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\marked-@at-test.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\marked-emoji-test.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\marked-heading-link-test.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\marked-todo-list-test.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\qunit\qunit-1.16.0.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\gitdata\darkicerain.github.io\editor.md-master\tests\qunit\qunit-1.16.0.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/time/images/clock.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/time/images/others.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/time/images/psd7786.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/time/time.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/time/time.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="219074bb-bc7b-41e9-91b6-50399df15498" name="New changelist" comment=" 图片" />
@@ -548,12 +35,41 @@
     <favorites_list name="darkicerain.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="time.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/time/time.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.69391304">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/time/time.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="psd7786.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/time/images/psd7786.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
@@ -574,8 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/dogs.html" />
-        <option value="$PROJECT_DIR$/search.json" />
         <option value="$PROJECT_DIR$/_layouts/search.html" />
         <option value="$PROJECT_DIR$/_layouts/none.html" />
         <option value="$PROJECT_DIR$/feed.xml" />
@@ -625,6 +139,8 @@
         <option value="$PROJECT_DIR$/rb/manage/article.rb" />
         <option value="$PROJECT_DIR$/rb/cgi/test.cgi" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/time/time.css" />
+        <option value="$PROJECT_DIR$/time/time.html" />
       </list>
     </option>
   </component>
@@ -730,7 +246,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="md-editor" />
+              <option name="myItemId" value="time" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darkicerain.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="darkicerain.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="time" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -764,7 +298,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sfntly-master" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -773,6 +307,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gitdata\darkicerain.github.io\time\images" />
       <recent name="D:\www\darkicerain.github.io\categories\program\_posts" />
       <recent name="D:\www\darkicerain.github.io\_site" />
       <recent name="E:\gitdata\darkicerain.github.io" />
@@ -1149,7 +684,7 @@
       <workItem from="1445827611220" duration="16029000" />
       <workItem from="1446002194618" duration="7787000" />
       <workItem from="1446084331749" duration="13556000" />
-      <workItem from="1446963264652" duration="503000" />
+      <workItem from="1446963264652" duration="10690000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1445001814258</created>
@@ -1403,11 +938,17 @@
       <option name="project" value="LOCAL" />
       <updated>1446963730460</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Merge remote-tracking branch 'remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;README.md&#10;#&#9;_plugins/admin.rb&#10;#&#9;rb/admin-server.rb&#10;">
+      <created>1446963797326</created>
+      <option name="number" value="00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1446963797326</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88959000" />
+    <option name="totallyTimeSpent" value="99146000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1437,26 +978,26 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32968238" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32837406" sideWeight="0.5040872" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32837406" sideWeight="0.506267" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32837406" sideWeight="0.49591282" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32837406" sideWeight="0.49373296" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.49971864" order="1" side_tool="false" content_ui="tabs" x="29" y="404" width="1862" height="301" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28174388" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28174388" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976928" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1730,41 +1271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/editor.md-master/examples/php/post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/editor.md-master/examples/php/upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/editor.md-master/examples/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/editor.md-master/examples/full.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.785714">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/editor.md-master/examples/php/cross-domain-upload.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.142858">
-          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/categories/likes/_posts/2015-10-16-what-the-fuck.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -1812,37 +1318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/editor.md-master/examples/goto-line.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="69" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/editor.md-master/docs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19343892">
-          <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/editor.md-master/examples/image-upload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24">
-          <caret line="50" column="76" selection-start-line="50" selection-start-column="76" selection-end-line="50" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/editor.md-master/examples/use-zepto.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23130435">
@@ -1855,6 +1330,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22056384">
           <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time/images/psd7786.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time/time.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time/time.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.69391304">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding />
         </state>
       </provider>
