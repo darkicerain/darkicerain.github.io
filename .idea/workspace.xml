@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd8ec700-2d20-4a3a-a9f2-bc2774914aa4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/time/images/clock.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/time/images/others.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/time/images/psd7786.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/time/time.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/time/time.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\gitdata\darkicerain.github.io\time\time.html" afterPath="$PROJECT_DIR$/time-demo.html" />
     </list>
     <list id="219074bb-bc7b-41e9-91b6-50399df15498" name="New changelist" comment=" 图片" />
     <ignored path="darkicerain.github.io.iws" />
@@ -36,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="time.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/time/time.html">
+      <file leaf-file-name="time-demo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/time-demo.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.69391304">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -90,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/search.html" />
         <option value="$PROJECT_DIR$/_layouts/none.html" />
         <option value="$PROJECT_DIR$/feed.xml" />
         <option value="$PROJECT_DIR$/search/search.html" />
@@ -141,6 +136,7 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/time/time.css" />
         <option value="$PROJECT_DIR$/time/time.html" />
+        <option value="$PROJECT_DIR$/time-demo.html" />
       </list>
     </option>
   </component>
@@ -314,10 +310,10 @@
       <recent name="E:\gitdata\darkicerain.github.io\categories\life\_posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\gitdata\darkicerain.github.io" />
       <recent name="D:\www\darkicerain.github.io\categories\likes\_posts" />
       <recent name="D:\www\darkicerain.github.io\categories\likes" />
       <recent name="E:\gitdata\darkicerain.github.io\_plugins" />
-      <recent name="E:\gitdata\darkicerain.github.io" />
       <recent name="E:\gitdata\darkicerain.github.io\search" />
     </key>
   </component>
@@ -684,7 +680,7 @@
       <workItem from="1445827611220" duration="16029000" />
       <workItem from="1446002194618" duration="7787000" />
       <workItem from="1446084331749" duration="13556000" />
-      <workItem from="1446963264652" duration="10690000" />
+      <workItem from="1446963264652" duration="10865000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1445001814258</created>
@@ -944,11 +940,17 @@
       <option name="project" value="LOCAL" />
       <updated>1446963797326</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Merge remote-tracking branch 'remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;README.md&#10;#&#9;_plugins/admin.rb&#10;#&#9;rb/admin-server.rb&#10;">
+      <created>1446974808143</created>
+      <option name="number" value="00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1446974808143</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99146000" />
+    <option name="totallyTimeSpent" value="99321000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1347,10 +1349,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/time/time.html">
+    <entry file="file://$PROJECT_DIR$/time-demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.69391304">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
         </state>
       </provider>
